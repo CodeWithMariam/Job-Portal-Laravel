@@ -1,6 +1,9 @@
 
 # Job Portal Website
-
+<div align="center">
+<img src="job.png" align="center" width="1280"/>
+</div>
+<br>
 A comprehensive job portal website that connects job seekers with potential employers, allowing users to search for jobs, apply online, and manage their applications. Employers can post job listings, search for candidates, and manage applications, making it a seamless experience for both sides of the job market.
 
 ## Table of Contents
